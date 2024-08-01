@@ -7,6 +7,7 @@ This project sets up a PostgreSQL database using Docker and provides scripts to 
 ## Prerequisites
 
 - Docker
+- Docker Compose
 - Node.js
 
 ## Setup
